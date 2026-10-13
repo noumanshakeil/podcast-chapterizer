@@ -1,0 +1,11 @@
+{
+  "project": "podcast-chapterizer",
+  "resource": "episodes",
+  "samples": [
+    {
+      "id": "ep1",
+      "title": "AI weekly",
+      "duration_s": 1800
+    }
+  ]
+}
